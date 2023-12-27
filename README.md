@@ -17,7 +17,17 @@
 
 - ⚡ Fun fact **I am currently a student at the University of Technology Malaysia, UTM**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">MY REPOSITORY</h3>
+
+- PROGRAMMING TECHNIQUE : https://github.com/seekergaming/PROGRAMMING-TECHNIQUE
+
+- DIGITAL LOGIC : https://github.com/seekergaming/DIGITAL-LOGIC
+
+- TECHNOLOGY AND INFORMATION SYSTEM : https://github.com/seekergaming/TECH-AND-INFORMATION-SYSTEM 
+
+- DISCRETE STRUCTURE : https://github.com/seekergaming/DISCRETE-STRUCTURE
+
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://instagram.com/admrzli._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="admrzli._" height="30" width="40" /></a>
 </p>
