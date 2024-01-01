@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C, HTML and C++(current)**
 
-- 👨‍💻 All of my projects are available at https://seekergaming.github.io/Admrzli.github.io/
+- 👨‍💻 Refer my e-portfolio at https://seekergaming.github.io/Admrzli.github.io/
 
 - 💬 Ask me about **C language**
 
