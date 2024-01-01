@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C, HTML and C++(current)**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+- 👨‍💻 All of my projects are available at https://seekergaming.github.io/Admrzli.github.io/
 
 - 💬 Ask me about **C language**
 
