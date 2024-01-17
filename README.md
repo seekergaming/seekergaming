@@ -21,8 +21,10 @@
 <h3 align="center">🎓EDUCATION</h3>
 
 - Sekolah Menengah Kebangsaan Simpang Renggam(2017 - 2021)
-
+    - 6A 4B 1C
+      
 - Pusat Asasi UiTM Dengkil(2022 - 2023)
+    - 4.00 CGPA
   
 - Universiti Teknologi Malaysia(2023 - Now)
 
