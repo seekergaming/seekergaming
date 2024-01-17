@@ -24,7 +24,7 @@
     - 6A 4B 1C
       
 - Pusat Asasi UiTM Dengkil(2022 - 2023)
-    - 4.00 CGPA
+    - 4.00 CGPA UITM/ 3.83 CGPA UiTM
   
 - Universiti Teknologi Malaysia(2023 - Now)
 
