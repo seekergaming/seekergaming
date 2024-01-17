@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I am currently a student at the University of Technology Malaysia, UTM**
 
 
-<h3 align="center">🎓EDUCATION</p>
+<h3 align="center">🎓EDUCATION</h3>
 
 - Sekolah Menengah Kebangsaan Simpang Renggam(2017 - 2021)
 - Pusat Asasi UiTM Dengkil(2022 - 2023)
