@@ -21,7 +21,9 @@
 <h3 align="center">🎓EDUCATION</h3>
 
 - Sekolah Menengah Kebangsaan Simpang Renggam(2017 - 2021)
+
 - Pusat Asasi UiTM Dengkil(2022 - 2023)
+  
 - Universiti Teknologi Malaysia(2023 - Now)
 
 
