@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **I am currently a student at the University of Technology Malaysia, UTM**
 
+
+<h3 align="center">EDUCATION</p>
+
 <h3 align="center">MY REPOSITORY</h3>
 
 - PROGRAMMING TECHNIQUE : https://github.com/seekergaming/PROGRAMMING-TECHNIQUE
