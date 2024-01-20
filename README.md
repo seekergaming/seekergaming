@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD ADAM BIN RAZALI</h1>
 <h3 align="center">A NEWBIE DATA ENGINEER</h3>
-<img allign="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<img allign="center" class="image fit" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seekergaming&label=Profile%20views&color=0e75b6&style=flat" alt="seekergaming" /> </p>
