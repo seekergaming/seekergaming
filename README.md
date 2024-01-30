@@ -16,7 +16,7 @@
 - 📫 How to reach me **adamrazali07@gmail.com**
 
 - ⚡ Fun fact **I am currently a student at the University of Technology Malaysia, UTM**
-
+#
 
 <h3 align="center">🎓EDUCATION</h3>
 
