@@ -28,9 +28,12 @@
   
 - Universiti Teknologi Malaysia(2023 - Now)
 
-# Achievements
+# 
+<h3 align="center">🎓ACHIEVEMENTS</h3>
 
 - Participant in Chess Tournament(MSSD)(2019 - 2022) for SMK Simpang Rengam
+
+#
 
 <h3 align="center">MY REPOSITORY</h3>
 
